@@ -7,6 +7,6 @@
 <title>Index.jsp</title>
 </head>
 <body>
-
+   Git수업입니다.
 </body>
 </html>
